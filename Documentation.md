@@ -523,7 +523,7 @@ local Tabs = {}
 		end)
 ```
 
-## Creating a Container
+## Creating a Container / Button
 ```lua
 local ContainerContent = {}
 		function ContainerContent:Button(text, desc, callback)
